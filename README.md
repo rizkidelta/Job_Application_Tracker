@@ -2,6 +2,8 @@
 
 A simple web-based application to track your job applications with CSV import/export functionality.
 
+![Application UI](ui.png)
+
 ## Features
 
 - **Add Applications**: Track job title/company, posting link, status, and notes

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(open /Users/rizkibayuaji/Documents/Personal/Codes/JobApplication/job-tracker.html)"
+    ],
+    "deny": []
+  }
+}
